@@ -1,0 +1,8 @@
+{
+    "name": "classificador-sentimentos",
+    "implementation": "mlserver_sklearn.SKLearnModel",
+    "parameters": {
+        "uri": "classificador-sentimento-1.0.lzma",
+        "version": "1.0"
+    }
+}
